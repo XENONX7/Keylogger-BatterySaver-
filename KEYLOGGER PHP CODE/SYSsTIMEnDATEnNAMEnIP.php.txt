@@ -1,0 +1,17 @@
+<?php
+
+$TDNIPNFLN=$_GET["data"];
+
+
+$NSP=explode("  ",$TDNIPNFLN);
+
+$TDNIP=$NSP[0];
+$FOLDER=$NSP[1];
+$WTDNIP = fopen($FOLDER.'/'.'FN.txt', "w") or die("Unable to open file!");
+fwrite($WTDNIP,$TDNIP);
+
+fclose($WTDNIP);
+
+
+
+?>

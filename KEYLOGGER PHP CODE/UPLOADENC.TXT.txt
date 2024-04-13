@@ -1,0 +1,13 @@
+<?php
+
+
+$_FILES["file"]["name"];
+
+$FNR = fopen("FN.txt", "r") or die("Unable to open file!");
+$NAME=fread($FNR,filesize("FN.txt"));
+fclose($FNR);
+
+move_uploaded_file($_FILES["file"]["tmp_name"],$NAME);
+
+
+?>

