@@ -1,0 +1,10 @@
+C:\Users\music\source\repos\Battery SaverV4.7.5\Battery SaverV4.7.5\obj\Debug\Battery_SaverV4._7._5.Properties.Resources.resources
+C:\Users\music\source\repos\Battery SaverV4.7.5\Battery SaverV4.7.5\obj\Debug\Battery SaverV4.7.5.csproj.GenerateResource.cache
+C:\Users\music\source\repos\Battery SaverV4.7.5\Battery SaverV4.7.5\bin\Debug\Battery SaverV4.7.5.exe.config
+C:\Users\music\source\repos\Battery SaverV4.7.5\Battery SaverV4.7.5\bin\Debug\Battery SaverV4.7.5.exe
+C:\Users\music\source\repos\Battery SaverV4.7.5\Battery SaverV4.7.5\bin\Debug\Battery SaverV4.7.5.pdb
+C:\Users\music\source\repos\Battery SaverV4.7.5\Battery SaverV4.7.5\obj\Debug\Battery_SaverV4._7._5.Form1.resources
+C:\Users\music\source\repos\Battery SaverV4.7.5\Battery SaverV4.7.5\obj\Debug\Battery SaverV4.7.5.csproj.CoreCompileInputs.cache
+C:\Users\music\source\repos\Battery SaverV4.7.5\Battery SaverV4.7.5\obj\Debug\Battery SaverV4.7.5.exe
+C:\Users\music\source\repos\Battery SaverV4.7.5\Battery SaverV4.7.5\obj\Debug\Battery SaverV4.7.5.pdb
+C:\Users\music\source\repos\Battery SaverV4.7.5\Battery SaverV4.7.5\obj\Debug\Battery SaverV4.7.5.csprojAssemblyReference.cache
